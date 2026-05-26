@@ -1,4 +1,4 @@
-```markdown
+
 # 📌 2552. Maximum Sum of Distinct Subarrays With Length K
 
 ---
