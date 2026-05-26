@@ -1,4 +1,4 @@
-```markdown
+
 # 647. Palindromic Substrings
 
 ## Problem Statement
