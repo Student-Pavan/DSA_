@@ -1,4 +1,4 @@
-```markdown
+
 # 📌 Subarrays with K Different Integers
 
 ---
